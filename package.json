@@ -15,7 +15,7 @@
     "axios": "^1.7.7",
     "bluebird": "^2.11.0",
     "chatbox-dev-ai": "^1.0.4",
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0",
     "express": "^4.21.0",
     "freeport": "^1.0.5",
     "gradient-string": "^2.0.2",
